@@ -18,4 +18,4 @@ This project analyzes car sales data using Microsoft Excel.
 - Pivot Tables
 - Charts
 
-project-[Car Sales.xlsx - car_data (1).xlsx](url)
+project-[Car Sales](https://github.com/2SN5K/Excel_Projects/blob/main/Car%20Sales.xlsx%20-%20car_data%20(1).xlsx)[](url)
